@@ -1,0 +1,13 @@
+{
+  "name": "refonte-upsell-design",
+  "version": "1.0.0",
+  "description": "Refonte du site Upsell avec une bibliothèque de design moderne",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "serve": "^14.2.0"
+  }
+}
